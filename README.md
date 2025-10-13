@@ -15,7 +15,6 @@ I am a passionate Data Science student with expertise in Python, Machine Learnin
 
 - ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-10217D?style=flat-square&logo=scikit-learn&logoColor=white) (Supervised, Unsupervised)
 - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-0769AD?style=flat-square&logo=tensorflow&logoColor=white) (ANN, CNN, RNN, LSTM, LLM, Transformer)
-- ![MLOps](https://img.shields.io/badge/-MLOps-FF6F00?style=flat-square&logo=mlflow&logoColor=white)
 - ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 - ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
 - ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
